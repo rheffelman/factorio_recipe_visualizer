@@ -1,0 +1,2972 @@
+Recipe: accumulator
+Craft Time: 10
+Ingredients:
+  iron-plate 2
+  battery 5
+Results:
+  accumulator 1
+
+Recipe: acid-neutralisation
+Craft Time: 5
+Ingredients:
+  calcite 1
+  sulfuric-acid 1000
+Results:
+  steam 10000
+
+Recipe: active-provider-chest
+Craft Time: 0.5
+Ingredients:
+  steel-chest 1
+  electronic-circuit 3
+  advanced-circuit 1
+Results:
+  active-provider-chest 1
+
+Recipe: advanced-carbonic-asteroid-crushing
+Craft Time: 5
+Ingredients:
+  carbonic-asteroid-chunk 1
+Results:
+  carbon 5
+  sulfur 2
+  carbonic-asteroid-chunk 1
+
+Recipe: advanced-circuit
+Craft Time: 6
+Ingredients:
+  electronic-circuit 2
+  plastic-bar 2
+  copper-cable 4
+Results:
+  advanced-circuit 1
+
+Recipe: advanced-metallic-asteroid-crushing
+Craft Time: 5
+Ingredients:
+  metallic-asteroid-chunk 1
+Results:
+  iron-ore 10
+  copper-ore 4
+  metallic-asteroid-chunk 1
+
+Recipe: advanced-oil-processing
+Craft Time: 5
+Ingredients:
+  water 50
+  crude-oil 100
+Results:
+  heavy-oil 25
+  light-oil 45
+  petroleum-gas 55
+
+Recipe: advanced-oxide-asteroid-crushing
+Craft Time: 5
+Ingredients:
+  oxide-asteroid-chunk 1
+Results:
+  ice 3
+  calcite 2
+  oxide-asteroid-chunk 1
+
+Recipe: advanced-thruster-fuel
+Craft Time: 10
+Ingredients:
+  carbon 2
+  calcite 1
+  water 100
+Results:
+  thruster-fuel 1500
+
+Recipe: advanced-thruster-oxidizer
+Craft Time: 10
+Ingredients:
+  iron-ore 2
+  calcite 1
+  water 100
+Results:
+  thruster-oxidizer 1500
+
+Recipe: agricultural-science-pack
+Craft Time: 4
+Ingredients:
+  bioflux 1
+  pentapod-egg 1
+Results:
+  agricultural-science-pack 1
+
+Recipe: agricultural-tower
+Craft Time: 10
+Ingredients:
+  steel-plate 10
+  electronic-circuit 3
+  spoilage 20
+  landfill 1
+Results:
+  agricultural-tower 1
+
+Recipe: ammonia-rocket-fuel
+Craft Time: 10
+Ingredients:
+  solid-fuel 3
+  water 50
+  ammonia 500
+Results:
+  rocket-fuel 1
+
+Recipe: ammoniacal-solution-separation
+Craft Time: 1
+Ingredients:
+  ammoniacal-solution 50
+Results:
+  ice 5
+  ammonia 50
+
+Recipe: arithmetic-combinator
+Craft Time: 0.5
+Ingredients:
+  copper-cable 5
+  electronic-circuit 5
+Results:
+  arithmetic-combinator 1
+
+Recipe: artificial-jellynut-soil
+Craft Time: 2
+Ingredients:
+  jellynut-seed 2
+  nutrients 50
+  landfill 5
+Results:
+  artificial-jellynut-soil 10
+
+Recipe: artificial-yumako-soil
+Craft Time: 2
+Ingredients:
+  yumako-seed 2
+  nutrients 50
+  landfill 5
+Results:
+  artificial-yumako-soil 10
+
+Recipe: artillery-shell
+Craft Time: 15
+Ingredients:
+  radar 1
+  calcite 1
+  tungsten-plate 4
+  explosives 8
+Results:
+  artillery-shell 1
+
+Recipe: artillery-turret
+Craft Time: 40
+Ingredients:
+  tungsten-plate 60
+  refined-concrete 60
+  iron-gear-wheel 40
+  processing-unit 10
+Results:
+  artillery-turret 1
+
+Recipe: artillery-wagon
+Craft Time: 4
+Ingredients:
+  engine-unit 60
+  tungsten-plate 60
+  refined-concrete 60
+  iron-gear-wheel 40
+  processing-unit 10
+Results:
+  artillery-wagon 1
+
+Recipe: assembling-machine-1
+Craft Time: 0.5
+Ingredients:
+  electronic-circuit 3
+  iron-gear-wheel 5
+  iron-plate 9
+Results:
+  assembling-machine-1 1
+
+Recipe: assembling-machine-2
+Craft Time: 0.5
+Ingredients:
+  steel-plate 2
+  electronic-circuit 3
+  iron-gear-wheel 5
+  assembling-machine-1 1
+Results:
+  assembling-machine-2 1
+
+Recipe: assembling-machine-3
+Craft Time: 0.5
+Ingredients:
+  assembling-machine-2 2
+  speed-module 4
+Results:
+  assembling-machine-3 1
+
+Recipe: asteroid-collector
+Craft Time: 10
+Ingredients:
+  low-density-structure 20
+  electric-engine-unit 8
+  processing-unit 5
+Results:
+  asteroid-collector 1
+
+Recipe: atomic-bomb
+Craft Time: 50
+Ingredients:
+  processing-unit 10
+  explosives 10
+  uranium-235 100
+Results:
+  atomic-bomb 1
+
+Recipe: automation-science-pack
+Craft Time: 5
+Ingredients:
+  copper-plate 1
+  iron-gear-wheel 1
+Results:
+  automation-science-pack 1
+
+Recipe: barrel
+Craft Time: 1
+Ingredients:
+  steel-plate 1
+Results:
+  barrel 1
+
+Recipe: basic-oil-processing
+Craft Time: 5
+Ingredients:
+  crude-oil 100
+Results:
+  petroleum-gas 45
+
+Recipe: battery
+Craft Time: 4
+Ingredients:
+  sulfuric-acid 20
+  iron-plate 1
+  copper-plate 1
+Results:
+  battery 1
+
+Recipe: battery-equipment
+Craft Time: 10
+Ingredients:
+  battery 5
+  steel-plate 10
+Results:
+  battery-equipment 1
+
+Recipe: battery-mk2-equipment
+Craft Time: 10
+Ingredients:
+  battery-equipment 10
+  processing-unit 15
+  low-density-structure 5
+Results:
+  battery-mk2-equipment 1
+
+Recipe: battery-mk3-equipment
+Craft Time: 10
+Ingredients:
+  battery-mk2-equipment 5
+  supercapacitor 10
+Results:
+  battery-mk3-equipment 1
+
+Recipe: beacon
+Craft Time: 15
+Ingredients:
+  electronic-circuit 20
+  advanced-circuit 20
+  steel-plate 10
+  copper-cable 10
+Results:
+  beacon 1
+
+Recipe: belt-immunity-equipment
+Craft Time: 10
+Ingredients:
+  advanced-circuit 5
+  steel-plate 10
+Results:
+  belt-immunity-equipment 1
+
+Recipe: big-electric-pole
+Craft Time: 0.5
+Ingredients:
+  iron-stick 8
+  steel-plate 5
+  copper-cable 4
+Results:
+  big-electric-pole 1
+
+Recipe: big-mining-drill
+Craft Time: 30
+Ingredients:
+  electric-mining-drill 1
+  molten-iron 200
+  tungsten-carbide 20
+  electric-engine-unit 10
+  advanced-circuit 10
+Results:
+  big-mining-drill 1
+
+Recipe: biochamber
+Craft Time: 20
+Ingredients:
+  nutrients 5
+  pentapod-egg 1
+  iron-plate 20
+  electronic-circuit 5
+  landfill 1
+Results:
+  biochamber 1
+
+Recipe: bioflux
+Craft Time: 6
+Ingredients:
+  yumako-mash 15
+  jelly 12
+Results:
+  bioflux 4
+
+Recipe: biolab
+Craft Time: 10
+Ingredients:
+  lab 1
+  biter-egg 10
+  refined-concrete 25
+  capture-robot-rocket 2
+  uranium-235 3
+Results:
+  biolab 1
+
+Recipe: biolubricant
+Craft Time: 3
+Ingredients:
+  jelly 60
+Results:
+  lubricant 20
+
+Recipe: bioplastic
+Craft Time: 2
+Ingredients:
+  bioflux 1
+  yumako-mash 4
+Results:
+  plastic-bar 3
+
+Recipe: biosulfur
+Craft Time: 2
+Ingredients:
+  spoilage 5
+  bioflux 1
+Results:
+  sulfur 2
+
+Recipe: biter-egg
+Craft Time: 10
+Ingredients:
+Results:
+  biter-egg 5
+
+Recipe: boiler
+Craft Time: 0.5
+Ingredients:
+  stone-furnace 1
+  pipe 4
+Results:
+  boiler 1
+
+Recipe: buffer-chest
+Craft Time: 0.5
+Ingredients:
+  steel-chest 1
+  electronic-circuit 3
+  advanced-circuit 1
+Results:
+  buffer-chest 1
+
+Recipe: bulk-inserter
+Craft Time: 0.5
+Ingredients:
+  iron-gear-wheel 15
+  electronic-circuit 15
+  advanced-circuit 1
+  fast-inserter 1
+Results:
+  bulk-inserter 1
+
+Recipe: burner-inserter
+Craft Time: 0.5
+Ingredients:
+  iron-plate 1
+  iron-gear-wheel 1
+Results:
+  burner-inserter 1
+
+Recipe: burner-mining-drill
+Craft Time: 2
+Ingredients:
+  iron-gear-wheel 3
+  stone-furnace 1
+  iron-plate 3
+Results:
+  burner-mining-drill 1
+
+Recipe: burnt-spoilage
+Craft Time: 12
+Ingredients:
+  spoilage 6
+Results:
+  carbon 1
+
+Recipe: cannon-shell
+Craft Time: 8
+Ingredients:
+  steel-plate 2
+  plastic-bar 2
+  explosives 1
+Results:
+  cannon-shell 1
+
+Recipe: captive-biter-spawner
+Craft Time: 10
+Ingredients:
+  biter-egg 10
+  capture-robot-rocket 1
+  uranium-235 15
+  fluoroketone-cold 100
+Results:
+  captive-biter-spawner 1
+
+Recipe: capture-robot-rocket
+Craft Time: 10
+Ingredients:
+  flying-robot-frame 1
+  steel-plate 2
+  bioflux 20
+  processing-unit 2
+Results:
+  capture-robot-rocket 1
+
+Recipe: car
+Craft Time: 2
+Ingredients:
+  engine-unit 8
+  iron-plate 20
+  steel-plate 5
+Results:
+  car 1
+
+Recipe: carbon
+Craft Time: 1
+Ingredients:
+  coal 2
+  sulfuric-acid 20
+Results:
+  carbon 1
+
+Recipe: carbon-fiber
+Craft Time: 5
+Ingredients:
+  yumako-mash 10
+  carbon 1
+Results:
+  carbon-fiber 1
+
+Recipe: carbonic-asteroid-crushing
+Craft Time: 2
+Ingredients:
+  carbonic-asteroid-chunk 1
+Results:
+  carbon 10
+  carbonic-asteroid-chunk 1
+
+Recipe: carbonic-asteroid-reprocessing
+Craft Time: 2
+Ingredients:
+  carbonic-asteroid-chunk 1
+Results:
+  carbonic-asteroid-chunk 1
+  metallic-asteroid-chunk 1
+  oxide-asteroid-chunk 1
+
+Recipe: cargo-bay
+Craft Time: 10
+Ingredients:
+  steel-plate 20
+  low-density-structure 20
+  processing-unit 5
+Results:
+  cargo-bay 1
+
+Recipe: cargo-landing-pad
+Craft Time: 30
+Ingredients:
+  concrete 200
+  steel-plate 25
+  processing-unit 10
+Results:
+  cargo-landing-pad 1
+
+Recipe: cargo-wagon
+Craft Time: 1
+Ingredients:
+  iron-gear-wheel 10
+  iron-plate 20
+  steel-plate 20
+Results:
+  cargo-wagon 1
+
+Recipe: casting-copper
+Craft Time: 3.2
+Ingredients:
+  molten-copper 20
+Results:
+  copper-plate 2
+
+Recipe: casting-copper-cable
+Craft Time: 1
+Ingredients:
+  molten-copper 5
+Results:
+  copper-cable 2
+
+Recipe: casting-iron
+Craft Time: 3.2
+Ingredients:
+  molten-iron 20
+Results:
+  iron-plate 2
+
+Recipe: casting-iron-gear-wheel
+Craft Time: 1
+Ingredients:
+  molten-iron 10
+Results:
+  iron-gear-wheel 1
+
+Recipe: casting-iron-stick
+Craft Time: 1
+Ingredients:
+  molten-iron 20
+Results:
+  iron-stick 4
+
+Recipe: casting-low-density-structure
+Craft Time: 15
+Ingredients:
+  molten-iron 80
+  molten-copper 250
+  plastic-bar 5
+Results:
+  low-density-structure 1
+
+Recipe: casting-pipe
+Craft Time: 1
+Ingredients:
+  molten-iron 10
+Results:
+  pipe 1
+
+Recipe: casting-pipe-to-ground
+Craft Time: 1
+Ingredients:
+  molten-iron 50
+  pipe 10
+Results:
+  pipe-to-ground 2
+
+Recipe: casting-steel
+Craft Time: 3.2
+Ingredients:
+  molten-iron 30
+Results:
+  steel-plate 1
+
+Recipe: centrifuge
+Craft Time: 4
+Ingredients:
+  concrete 100
+  steel-plate 50
+  advanced-circuit 100
+  iron-gear-wheel 100
+Results:
+  centrifuge 1
+
+Recipe: chemical-plant
+Craft Time: 5
+Ingredients:
+  steel-plate 5
+  iron-gear-wheel 5
+  electronic-circuit 5
+  pipe 5
+Results:
+  chemical-plant 1
+
+Recipe: chemical-science-pack
+Craft Time: 24
+Ingredients:
+  engine-unit 2
+  advanced-circuit 3
+  sulfur 1
+Results:
+  chemical-science-pack 2
+
+Recipe: cliff-explosives
+Craft Time: 8
+Ingredients:
+  explosives 10
+  calcite 10
+  grenade 1
+  barrel 1
+Results:
+  cliff-explosives 1
+
+Recipe: cluster-grenade
+Craft Time: 8
+Ingredients:
+  grenade 7
+  explosives 5
+  steel-plate 5
+Results:
+  cluster-grenade 1
+
+Recipe: coal-liquefaction
+Craft Time: 5
+Ingredients:
+  coal 10
+  heavy-oil 25
+  steam 50
+Results:
+  heavy-oil 90
+  light-oil 20
+  petroleum-gas 10
+
+Recipe: coal-synthesis
+Craft Time: 2
+Ingredients:
+  carbon 5
+  sulfur 1
+  water 10
+Results:
+  coal 1
+
+Recipe: combat-shotgun
+Craft Time: 10
+Ingredients:
+  steel-plate 15
+  iron-gear-wheel 5
+  copper-plate 10
+  wood 10
+Results:
+  combat-shotgun 1
+
+Recipe: concrete
+Craft Time: 10
+Ingredients:
+  stone-brick 5
+  iron-ore 1
+  water 100
+Results:
+  concrete 10
+
+Recipe: concrete-from-molten-iron
+Craft Time: 10
+Ingredients:
+  molten-iron 20
+  water 100
+  stone-brick 5
+Results:
+  concrete 10
+
+Recipe: constant-combinator
+Craft Time: 0.5
+Ingredients:
+  copper-cable 5
+  electronic-circuit 2
+Results:
+  constant-combinator 1
+
+Recipe: construction-robot
+Craft Time: 0.5
+Ingredients:
+  flying-robot-frame 1
+  electronic-circuit 2
+Results:
+  construction-robot 1
+
+Recipe: copper-bacteria
+Craft Time: 1
+Ingredients:
+  yumako-mash 3
+Results:
+  copper-bacteria 1
+  spoilage 1
+
+Recipe: copper-bacteria-cultivation
+Craft Time: 4
+Ingredients:
+  copper-bacteria 1
+  bioflux 1
+Results:
+  copper-bacteria 4
+
+Recipe: copper-cable
+Craft Time: 0.5
+Ingredients:
+  copper-plate 1
+Results:
+  copper-cable 2
+
+Recipe: copper-plate
+Craft Time: 3.2
+Ingredients:
+  copper-ore 1
+Results:
+  copper-plate 1
+
+Recipe: crude-oil-barrel
+Craft Time: 0.2
+Ingredients:
+  crude-oil 50
+  barrel 1
+Results:
+  crude-oil-barrel 1
+
+Recipe: crusher
+Craft Time: 10
+Ingredients:
+  low-density-structure 20
+  steel-plate 10
+  electric-engine-unit 10
+Results:
+  crusher 1
+
+Recipe: cryogenic-plant
+Craft Time: 10
+Ingredients:
+  refined-concrete 40
+  superconductor 20
+  processing-unit 20
+  lithium-plate 20
+Results:
+  cryogenic-plant 1
+
+Recipe: cryogenic-science-pack
+Craft Time: 20
+Ingredients:
+  ice 3
+  lithium-plate 1
+  fluoroketone-cold 6
+Results:
+  cryogenic-science-pack 1
+  fluoroketone-hot 3
+
+Recipe: decider-combinator
+Craft Time: 0.5
+Ingredients:
+  copper-cable 5
+  electronic-circuit 5
+Results:
+  decider-combinator 1
+
+Recipe: defender-capsule
+Craft Time: 8
+Ingredients:
+  piercing-rounds-magazine 3
+  electronic-circuit 3
+  iron-gear-wheel 3
+Results:
+  defender-capsule 1
+
+Recipe: destroyer-capsule
+Craft Time: 15
+Ingredients:
+  distractor-capsule 4
+  steel-plate 4
+  processing-unit 1
+Results:
+  destroyer-capsule 1
+
+Recipe: discharge-defense-equipment
+Craft Time: 10
+Ingredients:
+  processing-unit 5
+  steel-plate 20
+  laser-turret 10
+Results:
+  discharge-defense-equipment 1
+
+Recipe: display-panel
+Craft Time: 0.5
+Ingredients:
+  iron-plate 1
+  electronic-circuit 1
+Results:
+  display-panel 1
+
+Recipe: distractor-capsule
+Craft Time: 15
+Ingredients:
+  defender-capsule 4
+  advanced-circuit 3
+Results:
+  distractor-capsule 1
+
+Recipe: efficiency-module
+Craft Time: 15
+Ingredients:
+  advanced-circuit 5
+  electronic-circuit 5
+Results:
+  efficiency-module 1
+
+Recipe: efficiency-module-2
+Craft Time: 30
+Ingredients:
+  efficiency-module 4
+  advanced-circuit 5
+  processing-unit 5
+Results:
+  efficiency-module-2 1
+
+Recipe: efficiency-module-3
+Craft Time: 60
+Ingredients:
+  efficiency-module-2 4
+  advanced-circuit 5
+  processing-unit 5
+  spoilage 5
+Results:
+  efficiency-module-3 1
+
+Recipe: electric-engine-unit
+Craft Time: 10
+Ingredients:
+  engine-unit 1
+  lubricant 15
+  electronic-circuit 2
+Results:
+  electric-engine-unit 1
+
+Recipe: electric-furnace
+Craft Time: 5
+Ingredients:
+  steel-plate 10
+  advanced-circuit 5
+  stone-brick 10
+Results:
+  electric-furnace 1
+
+Recipe: electric-mining-drill
+Craft Time: 2
+Ingredients:
+  electronic-circuit 3
+  iron-gear-wheel 5
+  iron-plate 10
+Results:
+  electric-mining-drill 1
+
+Recipe: electrolyte
+Craft Time: 5
+Ingredients:
+  stone 1
+  heavy-oil 10
+  holmium-solution 10
+Results:
+  electrolyte 10
+
+Recipe: electromagnetic-plant
+Craft Time: 10
+Ingredients:
+  holmium-plate 150
+  steel-plate 50
+  processing-unit 50
+  refined-concrete 50
+Results:
+  electromagnetic-plant 1
+
+Recipe: electromagnetic-science-pack
+Craft Time: 10
+Ingredients:
+  supercapacitor 1
+  accumulator 1
+  electrolyte 25
+  holmium-solution 25
+Results:
+  electromagnetic-science-pack 1
+
+Recipe: electronic-circuit
+Craft Time: 0.5
+Ingredients:
+  iron-plate 1
+  copper-cable 3
+Results:
+  electronic-circuit 1
+
+Recipe: empty-crude-oil-barrel
+Craft Time: 0.2
+Ingredients:
+  crude-oil-barrel 1
+Results:
+  crude-oil 50
+  barrel 1
+
+Recipe: empty-fluoroketone-cold-barrel
+Craft Time: 0.2
+Ingredients:
+  fluoroketone-cold-barrel 1
+Results:
+  fluoroketone-cold 50
+  barrel 1
+
+Recipe: empty-fluoroketone-hot-barrel
+Craft Time: 0.2
+Ingredients:
+  fluoroketone-hot-barrel 1
+Results:
+  fluoroketone-hot 50
+  barrel 1
+
+Recipe: empty-heavy-oil-barrel
+Craft Time: 0.2
+Ingredients:
+  heavy-oil-barrel 1
+Results:
+  heavy-oil 50
+  barrel 1
+
+Recipe: empty-light-oil-barrel
+Craft Time: 0.2
+Ingredients:
+  light-oil-barrel 1
+Results:
+  light-oil 50
+  barrel 1
+
+Recipe: empty-lubricant-barrel
+Craft Time: 0.2
+Ingredients:
+  lubricant-barrel 1
+Results:
+  lubricant 50
+  barrel 1
+
+Recipe: empty-petroleum-gas-barrel
+Craft Time: 0.2
+Ingredients:
+  petroleum-gas-barrel 1
+Results:
+  petroleum-gas 50
+  barrel 1
+
+Recipe: empty-sulfuric-acid-barrel
+Craft Time: 0.2
+Ingredients:
+  sulfuric-acid-barrel 1
+Results:
+  sulfuric-acid 50
+  barrel 1
+
+Recipe: empty-water-barrel
+Craft Time: 0.2
+Ingredients:
+  water-barrel 1
+Results:
+  water 50
+  barrel 1
+
+Recipe: energy-shield-equipment
+Craft Time: 10
+Ingredients:
+  advanced-circuit 5
+  steel-plate 10
+Results:
+  energy-shield-equipment 1
+
+Recipe: energy-shield-mk2-equipment
+Craft Time: 10
+Ingredients:
+  energy-shield-equipment 10
+  processing-unit 5
+  low-density-structure 5
+Results:
+  energy-shield-mk2-equipment 1
+
+Recipe: engine-unit
+Craft Time: 10
+Ingredients:
+  steel-plate 1
+  iron-gear-wheel 1
+  pipe 2
+Results:
+  engine-unit 1
+
+Recipe: exoskeleton-equipment
+Craft Time: 10
+Ingredients:
+  processing-unit 10
+  electric-engine-unit 30
+  steel-plate 20
+Results:
+  exoskeleton-equipment 1
+
+Recipe: explosive-cannon-shell
+Craft Time: 8
+Ingredients:
+  steel-plate 2
+  plastic-bar 2
+  explosives 2
+Results:
+  explosive-cannon-shell 1
+
+Recipe: explosive-rocket
+Craft Time: 8
+Ingredients:
+  rocket 1
+  explosives 2
+Results:
+  explosive-rocket 1
+
+Recipe: explosive-uranium-cannon-shell
+Craft Time: 12
+Ingredients:
+  explosive-cannon-shell 1
+  uranium-238 1
+Results:
+  explosive-uranium-cannon-shell 1
+
+Recipe: explosives
+Craft Time: 4
+Ingredients:
+  sulfur 1
+  coal 1
+  water 10
+Results:
+  explosives 2
+
+Recipe: express-loader
+Craft Time: 10
+Ingredients:
+  express-transport-belt 5
+  fast-loader 1
+Results:
+  express-loader 1
+
+Recipe: express-splitter
+Craft Time: 2
+Ingredients:
+  fast-splitter 1
+  iron-gear-wheel 10
+  advanced-circuit 10
+  lubricant 80
+Results:
+  express-splitter 1
+
+Recipe: express-transport-belt
+Craft Time: 0.5
+Ingredients:
+  iron-gear-wheel 10
+  fast-transport-belt 1
+  lubricant 20
+Results:
+  express-transport-belt 1
+
+Recipe: express-underground-belt
+Craft Time: 2
+Ingredients:
+  iron-gear-wheel 80
+  fast-underground-belt 2
+  lubricant 40
+Results:
+  express-underground-belt 2
+
+Recipe: fast-inserter
+Craft Time: 0.5
+Ingredients:
+  electronic-circuit 2
+  iron-plate 2
+  inserter 1
+Results:
+  fast-inserter 1
+
+Recipe: fast-loader
+Craft Time: 3
+Ingredients:
+  fast-transport-belt 5
+  loader 1
+Results:
+  fast-loader 1
+
+Recipe: fast-splitter
+Craft Time: 2
+Ingredients:
+  splitter 1
+  iron-gear-wheel 10
+  electronic-circuit 10
+Results:
+  fast-splitter 1
+
+Recipe: fast-transport-belt
+Craft Time: 0.5
+Ingredients:
+  iron-gear-wheel 5
+  transport-belt 1
+Results:
+  fast-transport-belt 1
+
+Recipe: fast-underground-belt
+Craft Time: 2
+Ingredients:
+  iron-gear-wheel 40
+  underground-belt 2
+Results:
+  fast-underground-belt 2
+
+Recipe: firearm-magazine
+Craft Time: 1
+Ingredients:
+  iron-plate 4
+Results:
+  firearm-magazine 1
+
+Recipe: fish-breeding
+Craft Time: 6
+Ingredients:
+  raw-fish 2
+  nutrients 100
+  water 100
+Results:
+  raw-fish 3
+
+Recipe: fission-reactor-equipment
+Craft Time: 10
+Ingredients:
+  processing-unit 200
+  low-density-structure 50
+  uranium-fuel-cell 4
+Results:
+  fission-reactor-equipment 1
+
+Recipe: flamethrower
+Craft Time: 10
+Ingredients:
+  steel-plate 5
+  iron-gear-wheel 10
+Results:
+  flamethrower 1
+
+Recipe: flamethrower-ammo
+Craft Time: 6
+Ingredients:
+  steel-plate 5
+  crude-oil 100
+Results:
+  flamethrower-ammo 1
+
+Recipe: flamethrower-turret
+Craft Time: 20
+Ingredients:
+  steel-plate 30
+  iron-gear-wheel 15
+  pipe 10
+  engine-unit 5
+Results:
+  flamethrower-turret 1
+
+Recipe: fluid-wagon
+Craft Time: 1.5
+Ingredients:
+  iron-gear-wheel 10
+  steel-plate 16
+  pipe 8
+  storage-tank 1
+Results:
+  fluid-wagon 1
+
+Recipe: fluoroketone
+Craft Time: 10
+Ingredients:
+  fluorine 50
+  ammonia 50
+  solid-fuel 1
+  lithium 1
+Results:
+  fluoroketone-hot 50
+
+Recipe: fluoroketone-cold-barrel
+Craft Time: 0.2
+Ingredients:
+  fluoroketone-cold 50
+  barrel 1
+Results:
+  fluoroketone-cold-barrel 1
+
+Recipe: fluoroketone-cooling
+Craft Time: 5
+Ingredients:
+  fluoroketone-hot 10
+Results:
+  fluoroketone-cold 10
+
+Recipe: fluoroketone-hot-barrel
+Craft Time: 0.2
+Ingredients:
+  fluoroketone-hot 50
+  barrel 1
+Results:
+  fluoroketone-hot-barrel 1
+
+Recipe: flying-robot-frame
+Craft Time: 20
+Ingredients:
+  electric-engine-unit 1
+  battery 2
+  steel-plate 1
+  electronic-circuit 3
+Results:
+  flying-robot-frame 1
+
+Recipe: foundation
+Craft Time: 30
+Ingredients:
+  tungsten-plate 4
+  lithium-plate 4
+  carbon-fiber 4
+  stone 20
+  fluoroketone-cold 20
+Results:
+  foundation 1
+
+Recipe: foundry
+Craft Time: 10
+Ingredients:
+  tungsten-carbide 50
+  steel-plate 50
+  electronic-circuit 30
+  refined-concrete 20
+  lubricant 20
+Results:
+  foundry 1
+
+Recipe: fusion-generator
+Craft Time: 30
+Ingredients:
+  tungsten-plate 100
+  superconductor 100
+  quantum-processor 50
+Results:
+  fusion-generator 1
+
+Recipe: fusion-power-cell
+Craft Time: 10
+Ingredients:
+  lithium-plate 5
+  holmium-plate 1
+  ammonia 100
+Results:
+  fusion-power-cell 1
+
+Recipe: fusion-reactor
+Craft Time: 60
+Ingredients:
+  tungsten-plate 200
+  superconductor 200
+  quantum-processor 250
+Results:
+  fusion-reactor 1
+
+Recipe: fusion-reactor-equipment
+Craft Time: 30
+Ingredients:
+  fission-reactor-equipment 1
+  fusion-power-cell 10
+  tungsten-plate 250
+  carbon-fiber 100
+  supercapacitor 25
+  quantum-processor 250
+Results:
+  fusion-reactor-equipment 1
+
+Recipe: gate
+Craft Time: 0.5
+Ingredients:
+  stone-wall 1
+  steel-plate 2
+  electronic-circuit 2
+Results:
+  gate 1
+
+Recipe: grenade
+Craft Time: 8
+Ingredients:
+  iron-plate 5
+  coal 10
+Results:
+  grenade 1
+
+Recipe: gun-turret
+Craft Time: 8
+Ingredients:
+  iron-gear-wheel 10
+  copper-plate 10
+  iron-plate 20
+Results:
+  gun-turret 1
+
+Recipe: hazard-concrete
+Craft Time: 0.25
+Ingredients:
+  concrete 10
+Results:
+  hazard-concrete 10
+
+Recipe: heat-exchanger
+Craft Time: 3
+Ingredients:
+  steel-plate 10
+  copper-plate 100
+  pipe 10
+Results:
+  heat-exchanger 1
+
+Recipe: heat-interface
+Craft Time: 0.5
+Ingredients:
+  heat-pipe 1
+  electronic-circuit 5
+Results:
+  heat-interface 1
+
+Recipe: heat-pipe
+Craft Time: 1
+Ingredients:
+  steel-plate 10
+  copper-plate 20
+Results:
+  heat-pipe 1
+
+Recipe: heating-tower
+Craft Time: 10
+Ingredients:
+  boiler 2
+  heat-pipe 5
+  concrete 20
+Results:
+  heating-tower 1
+
+Recipe: heavy-armor
+Craft Time: 8
+Ingredients:
+  copper-plate 100
+  steel-plate 50
+Results:
+  heavy-armor 1
+
+Recipe: heavy-oil-barrel
+Craft Time: 0.2
+Ingredients:
+  heavy-oil 50
+  barrel 1
+Results:
+  heavy-oil-barrel 1
+
+Recipe: heavy-oil-cracking
+Craft Time: 2
+Ingredients:
+  water 30
+  heavy-oil 40
+Results:
+  light-oil 30
+
+Recipe: holmium-plate
+Craft Time: 1
+Ingredients:
+  holmium-solution 20
+Results:
+  holmium-plate 1
+
+Recipe: holmium-solution
+Craft Time: 10
+Ingredients:
+  holmium-ore 2
+  stone 1
+  water 10
+Results:
+  holmium-solution 100
+
+Recipe: ice-melting
+Craft Time: 1
+Ingredients:
+  ice 1
+Results:
+  water 20
+
+Recipe: ice-platform
+Craft Time: 30
+Ingredients:
+  ammonia 400
+  ice 50
+Results:
+  ice-platform 1
+
+Recipe: infinity-chest
+Craft Time: 0.5
+Ingredients:
+  steel-chest 1
+  electronic-circuit 5
+Results:
+  infinity-chest 1
+
+Recipe: infinity-pipe
+Craft Time: 0.5
+Ingredients:
+  pipe 1
+  electronic-circuit 5
+Results:
+  infinity-pipe 1
+
+Recipe: inserter
+Craft Time: 0.5
+Ingredients:
+  electronic-circuit 1
+  iron-gear-wheel 1
+  iron-plate 1
+Results:
+  inserter 1
+
+Recipe: iron-bacteria
+Craft Time: 1
+Ingredients:
+  jelly 6
+Results:
+  iron-bacteria 1
+  spoilage 4
+
+Recipe: iron-bacteria-cultivation
+Craft Time: 4
+Ingredients:
+  iron-bacteria 1
+  bioflux 1
+Results:
+  iron-bacteria 4
+
+Recipe: iron-chest
+Craft Time: 0.5
+Ingredients:
+  iron-plate 8
+Results:
+  iron-chest 1
+
+Recipe: iron-gear-wheel
+Craft Time: 0.5
+Ingredients:
+  iron-plate 2
+Results:
+  iron-gear-wheel 1
+
+Recipe: iron-plate
+Craft Time: 3.2
+Ingredients:
+  iron-ore 1
+Results:
+  iron-plate 1
+
+Recipe: iron-stick
+Craft Time: 0.5
+Ingredients:
+  iron-plate 1
+Results:
+  iron-stick 2
+
+Recipe: jellynut-processing
+Craft Time: 1
+Ingredients:
+  jellynut 1
+Results:
+  jellynut-seed 1
+  jelly 4
+
+Recipe: kovarex-enrichment-process
+Craft Time: 60
+Ingredients:
+  uranium-235 40
+  uranium-238 5
+Results:
+  uranium-235 41
+  uranium-238 2
+
+Recipe: lab
+Craft Time: 2
+Ingredients:
+  electronic-circuit 10
+  iron-gear-wheel 10
+  transport-belt 4
+Results:
+  lab 1
+
+Recipe: land-mine
+Craft Time: 5
+Ingredients:
+  steel-plate 1
+  explosives 2
+Results:
+  land-mine 4
+
+Recipe: landfill
+Craft Time: 0.5
+Ingredients:
+  stone 50
+Results:
+  landfill 1
+
+Recipe: laser-turret
+Craft Time: 20
+Ingredients:
+  steel-plate 20
+  electronic-circuit 20
+  battery 12
+Results:
+  laser-turret 1
+
+Recipe: light-armor
+Craft Time: 3
+Ingredients:
+  iron-plate 40
+Results:
+  light-armor 1
+
+Recipe: light-oil-barrel
+Craft Time: 0.2
+Ingredients:
+  light-oil 50
+  barrel 1
+Results:
+  light-oil-barrel 1
+
+Recipe: light-oil-cracking
+Craft Time: 2
+Ingredients:
+  water 30
+  light-oil 30
+Results:
+  petroleum-gas 20
+
+Recipe: lightning-collector
+Craft Time: 5
+Ingredients:
+  lightning-rod 1
+  supercapacitor 8
+  accumulator 1
+  electrolyte 80
+Results:
+  lightning-collector 1
+
+Recipe: lightning-rod
+Craft Time: 5
+Ingredients:
+  copper-cable 12
+  steel-plate 8
+  stone-brick 4
+Results:
+  lightning-rod 1
+
+Recipe: lithium
+Craft Time: 20
+Ingredients:
+  holmium-plate 1
+  lithium-brine 50
+  ammonia 50
+Results:
+  lithium 5
+
+Recipe: lithium-plate
+Craft Time: 6.4
+Ingredients:
+  lithium 1
+Results:
+  lithium-plate 1
+
+Recipe: loader
+Craft Time: 1
+Ingredients:
+  inserter 5
+  electronic-circuit 5
+  iron-gear-wheel 5
+  iron-plate 5
+  transport-belt 5
+Results:
+  loader 1
+
+Recipe: locomotive
+Craft Time: 4
+Ingredients:
+  engine-unit 20
+  electronic-circuit 10
+  steel-plate 30
+Results:
+  locomotive 1
+
+Recipe: logistic-robot
+Craft Time: 0.5
+Ingredients:
+  flying-robot-frame 1
+  advanced-circuit 2
+Results:
+  logistic-robot 1
+
+Recipe: logistic-science-pack
+Craft Time: 6
+Ingredients:
+  inserter 1
+  transport-belt 1
+Results:
+  logistic-science-pack 1
+
+Recipe: long-handed-inserter
+Craft Time: 0.5
+Ingredients:
+  iron-gear-wheel 1
+  iron-plate 1
+  inserter 1
+Results:
+  long-handed-inserter 1
+
+Recipe: low-density-structure
+Craft Time: 15
+Ingredients:
+  steel-plate 2
+  copper-plate 20
+  plastic-bar 5
+Results:
+  low-density-structure 1
+
+Recipe: lubricant
+Craft Time: 1
+Ingredients:
+  heavy-oil 10
+Results:
+  lubricant 10
+
+Recipe: lubricant-barrel
+Craft Time: 0.2
+Ingredients:
+  lubricant 50
+  barrel 1
+Results:
+  lubricant-barrel 1
+
+Recipe: mech-armor
+Craft Time: 60
+Ingredients:
+  power-armor-mk2 1
+  holmium-plate 200
+  processing-unit 100
+  superconductor 50
+  supercapacitor 50
+Results:
+  mech-armor 1
+
+Recipe: medium-electric-pole
+Craft Time: 0.5
+Ingredients:
+  iron-stick 4
+  steel-plate 2
+  copper-cable 2
+Results:
+  medium-electric-pole 1
+
+Recipe: metallic-asteroid-crushing
+Craft Time: 2
+Ingredients:
+  metallic-asteroid-chunk 1
+Results:
+  iron-ore 20
+  metallic-asteroid-chunk 1
+
+Recipe: metallic-asteroid-reprocessing
+Craft Time: 2
+Ingredients:
+  metallic-asteroid-chunk 1
+Results:
+  metallic-asteroid-chunk 1
+  carbonic-asteroid-chunk 1
+  oxide-asteroid-chunk 1
+
+Recipe: metallurgic-science-pack
+Craft Time: 10
+Ingredients:
+  tungsten-carbide 3
+  tungsten-plate 2
+  molten-copper 200
+Results:
+  metallurgic-science-pack 1
+
+Recipe: military-science-pack
+Craft Time: 10
+Ingredients:
+  piercing-rounds-magazine 1
+  grenade 1
+  stone-wall 2
+Results:
+  military-science-pack 2
+
+Recipe: modular-armor
+Craft Time: 15
+Ingredients:
+  advanced-circuit 30
+  steel-plate 50
+Results:
+  modular-armor 1
+
+Recipe: molten-copper
+Craft Time: 32
+Ingredients:
+  copper-ore 50
+  calcite 1
+Results:
+  molten-copper 500
+
+Recipe: molten-copper-from-lava
+Craft Time: 16
+Ingredients:
+  lava 500
+  calcite 1
+Results:
+  molten-copper 250
+  stone 15
+
+Recipe: molten-iron
+Craft Time: 32
+Ingredients:
+  iron-ore 50
+  calcite 1
+Results:
+  molten-iron 500
+
+Recipe: molten-iron-from-lava
+Craft Time: 16
+Ingredients:
+  lava 500
+  calcite 1
+Results:
+  molten-iron 250
+  stone 10
+
+Recipe: night-vision-equipment
+Craft Time: 10
+Ingredients:
+  advanced-circuit 5
+  steel-plate 10
+Results:
+  night-vision-equipment 1
+
+Recipe: nuclear-fuel
+Craft Time: 90
+Ingredients:
+  uranium-235 1
+  rocket-fuel 1
+Results:
+  nuclear-fuel 1
+
+Recipe: nuclear-fuel-reprocessing
+Craft Time: 60
+Ingredients:
+  depleted-uranium-fuel-cell 5
+Results:
+  uranium-238 3
+
+Recipe: nuclear-reactor
+Craft Time: 8
+Ingredients:
+  concrete 500
+  steel-plate 500
+  advanced-circuit 500
+  copper-plate 500
+Results:
+  nuclear-reactor 1
+
+Recipe: nutrients-from-bioflux
+Craft Time: 2
+Ingredients:
+  bioflux 5
+Results:
+  nutrients 40
+
+Recipe: nutrients-from-biter-egg
+Craft Time: 2
+Ingredients:
+  biter-egg 1
+Results:
+  nutrients 20
+
+Recipe: nutrients-from-fish
+Craft Time: 2
+Ingredients:
+  raw-fish 1
+Results:
+  nutrients 20
+
+Recipe: nutrients-from-spoilage
+Craft Time: 2
+Ingredients:
+  spoilage 10
+Results:
+  nutrients 1
+
+Recipe: nutrients-from-yumako-mash
+Craft Time: 4
+Ingredients:
+  yumako-mash 4
+Results:
+  nutrients 6
+
+Recipe: offshore-pump
+Craft Time: 0.5
+Ingredients:
+  pipe 3
+  iron-gear-wheel 2
+Results:
+  offshore-pump 1
+
+Recipe: oil-refinery
+Craft Time: 8
+Ingredients:
+  steel-plate 15
+  iron-gear-wheel 10
+  stone-brick 10
+  electronic-circuit 10
+  pipe 10
+Results:
+  oil-refinery 1
+
+Recipe: overgrowth-jellynut-soil
+Craft Time: 10
+Ingredients:
+  artificial-jellynut-soil 2
+  jellynut-seed 5
+  biter-egg 10
+  spoilage 50
+  water 100
+Results:
+  overgrowth-jellynut-soil 1
+
+Recipe: overgrowth-yumako-soil
+Craft Time: 10
+Ingredients:
+  artificial-yumako-soil 2
+  yumako-seed 5
+  biter-egg 10
+  spoilage 50
+  water 100
+Results:
+  overgrowth-yumako-soil 1
+
+Recipe: oxide-asteroid-crushing
+Craft Time: 2
+Ingredients:
+  oxide-asteroid-chunk 1
+Results:
+  ice 5
+  oxide-asteroid-chunk 1
+
+Recipe: oxide-asteroid-reprocessing
+Craft Time: 1
+Ingredients:
+  oxide-asteroid-chunk 1
+Results:
+  oxide-asteroid-chunk 1
+  metallic-asteroid-chunk 1
+  carbonic-asteroid-chunk 1
+
+Recipe: parameter-0
+Craft Time: 0.5
+Ingredients:
+Results:
+
+Recipe: parameter-1
+Craft Time: 0.5
+Ingredients:
+Results:
+
+Recipe: parameter-2
+Craft Time: 0.5
+Ingredients:
+Results:
+
+Recipe: parameter-3
+Craft Time: 0.5
+Ingredients:
+Results:
+
+Recipe: parameter-4
+Craft Time: 0.5
+Ingredients:
+Results:
+
+Recipe: parameter-5
+Craft Time: 0.5
+Ingredients:
+Results:
+
+Recipe: parameter-6
+Craft Time: 0.5
+Ingredients:
+Results:
+
+Recipe: parameter-7
+Craft Time: 0.5
+Ingredients:
+Results:
+
+Recipe: parameter-8
+Craft Time: 0.5
+Ingredients:
+Results:
+
+Recipe: parameter-9
+Craft Time: 0.5
+Ingredients:
+Results:
+
+Recipe: passive-provider-chest
+Craft Time: 0.5
+Ingredients:
+  steel-chest 1
+  electronic-circuit 3
+  advanced-circuit 1
+Results:
+  passive-provider-chest 1
+
+Recipe: pentapod-egg
+Craft Time: 15
+Ingredients:
+  pentapod-egg 1
+  nutrients 30
+  water 60
+Results:
+  pentapod-egg 2
+
+Recipe: personal-laser-defense-equipment
+Craft Time: 10
+Ingredients:
+  processing-unit 20
+  low-density-structure 5
+  laser-turret 5
+Results:
+  personal-laser-defense-equipment 1
+
+Recipe: personal-roboport-equipment
+Craft Time: 10
+Ingredients:
+  advanced-circuit 10
+  iron-gear-wheel 40
+  steel-plate 20
+  battery 45
+Results:
+  personal-roboport-equipment 1
+
+Recipe: personal-roboport-mk2-equipment
+Craft Time: 20
+Ingredients:
+  personal-roboport-equipment 5
+  processing-unit 50
+  superconductor 50
+Results:
+  personal-roboport-mk2-equipment 1
+
+Recipe: petroleum-gas-barrel
+Craft Time: 0.2
+Ingredients:
+  petroleum-gas 50
+  barrel 1
+Results:
+  petroleum-gas-barrel 1
+
+Recipe: piercing-rounds-magazine
+Craft Time: 3
+Ingredients:
+  firearm-magazine 1
+  steel-plate 1
+  copper-plate 5
+Results:
+  piercing-rounds-magazine 1
+
+Recipe: piercing-shotgun-shell
+Craft Time: 8
+Ingredients:
+  shotgun-shell 2
+  copper-plate 5
+  steel-plate 2
+Results:
+  piercing-shotgun-shell 1
+
+Recipe: pipe
+Craft Time: 0.5
+Ingredients:
+  iron-plate 1
+Results:
+  pipe 1
+
+Recipe: pipe-to-ground
+Craft Time: 0.5
+Ingredients:
+  pipe 10
+  iron-plate 5
+Results:
+  pipe-to-ground 2
+
+Recipe: pistol
+Craft Time: 5
+Ingredients:
+  copper-plate 5
+  iron-plate 5
+Results:
+  pistol 1
+
+Recipe: plastic-bar
+Craft Time: 1
+Ingredients:
+  petroleum-gas 20
+  coal 1
+Results:
+  plastic-bar 2
+
+Recipe: poison-capsule
+Craft Time: 8
+Ingredients:
+  steel-plate 3
+  electronic-circuit 3
+  coal 10
+Results:
+  poison-capsule 1
+
+Recipe: power-armor
+Craft Time: 20
+Ingredients:
+  processing-unit 40
+  electric-engine-unit 20
+  steel-plate 40
+Results:
+  power-armor 1
+
+Recipe: power-armor-mk2
+Craft Time: 25
+Ingredients:
+  efficiency-module 100
+  speed-module 100
+  processing-unit 60
+  electric-engine-unit 40
+  low-density-structure 30
+Results:
+  power-armor-mk2 1
+
+Recipe: power-switch
+Craft Time: 2
+Ingredients:
+  iron-plate 5
+  copper-cable 5
+  electronic-circuit 2
+Results:
+  power-switch 1
+
+Recipe: processing-unit
+Craft Time: 10
+Ingredients:
+  electronic-circuit 20
+  advanced-circuit 2
+  sulfuric-acid 5
+Results:
+  processing-unit 1
+
+Recipe: production-science-pack
+Craft Time: 21
+Ingredients:
+  electric-furnace 1
+  productivity-module 1
+  rail 30
+Results:
+  production-science-pack 3
+
+Recipe: productivity-module
+Craft Time: 15
+Ingredients:
+  advanced-circuit 5
+  electronic-circuit 5
+Results:
+  productivity-module 1
+
+Recipe: productivity-module-2
+Craft Time: 30
+Ingredients:
+  productivity-module 4
+  advanced-circuit 5
+  processing-unit 5
+Results:
+  productivity-module-2 1
+
+Recipe: productivity-module-3
+Craft Time: 60
+Ingredients:
+  productivity-module-2 4
+  advanced-circuit 5
+  processing-unit 5
+  biter-egg 1
+Results:
+  productivity-module-3 1
+
+Recipe: programmable-speaker
+Craft Time: 2
+Ingredients:
+  iron-plate 3
+  iron-stick 4
+  copper-cable 5
+  electronic-circuit 4
+Results:
+  programmable-speaker 1
+
+Recipe: promethium-science-pack
+Craft Time: 5
+Ingredients:
+  promethium-asteroid-chunk 25
+  quantum-processor 1
+  biter-egg 10
+Results:
+  promethium-science-pack 10
+
+Recipe: pump
+Craft Time: 2
+Ingredients:
+  engine-unit 1
+  steel-plate 1
+  pipe 1
+Results:
+  pump 1
+
+Recipe: pumpjack
+Craft Time: 5
+Ingredients:
+  steel-plate 5
+  iron-gear-wheel 10
+  electronic-circuit 5
+  pipe 10
+Results:
+  pumpjack 1
+
+Recipe: quality-module
+Craft Time: 15
+Ingredients:
+  electronic-circuit 5
+  advanced-circuit 5
+Results:
+  quality-module 1
+
+Recipe: quality-module-2
+Craft Time: 30
+Ingredients:
+  quality-module 4
+  advanced-circuit 5
+  processing-unit 5
+Results:
+  quality-module-2 1
+
+Recipe: quality-module-3
+Craft Time: 60
+Ingredients:
+  quality-module-2 4
+  advanced-circuit 5
+  processing-unit 5
+  superconductor 1
+Results:
+  quality-module-3 1
+
+Recipe: quantum-processor
+Craft Time: 30
+Ingredients:
+  tungsten-carbide 1
+  processing-unit 1
+  superconductor 1
+  carbon-fiber 1
+  lithium-plate 2
+  fluoroketone-cold 10
+Results:
+  quantum-processor 1
+  fluoroketone-hot 5
+
+Recipe: radar
+Craft Time: 0.5
+Ingredients:
+  electronic-circuit 5
+  iron-gear-wheel 5
+  iron-plate 10
+Results:
+  radar 1
+
+Recipe: rail
+Craft Time: 0.5
+Ingredients:
+  stone 1
+  iron-stick 1
+  steel-plate 1
+Results:
+  rail 2
+
+Recipe: rail-chain-signal
+Craft Time: 0.5
+Ingredients:
+  electronic-circuit 1
+  iron-plate 5
+Results:
+  rail-chain-signal 1
+
+Recipe: rail-ramp
+Craft Time: 0.5
+Ingredients:
+  refined-concrete 100
+  rail 8
+  steel-plate 10
+Results:
+  rail-ramp 1
+
+Recipe: rail-signal
+Craft Time: 0.5
+Ingredients:
+  electronic-circuit 1
+  iron-plate 5
+Results:
+  rail-signal 1
+
+Recipe: rail-support
+Craft Time: 0.5
+Ingredients:
+  refined-concrete 20
+  steel-plate 10
+Results:
+  rail-support 1
+
+Recipe: railgun
+Craft Time: 10
+Ingredients:
+  tungsten-plate 10
+  superconductor 10
+  quantum-processor 20
+  fluoroketone-cold 10
+Results:
+  railgun 1
+
+Recipe: railgun-ammo
+Craft Time: 25
+Ingredients:
+  steel-plate 5
+  copper-cable 10
+  explosives 2
+Results:
+  railgun-ammo 1
+
+Recipe: railgun-turret
+Craft Time: 10
+Ingredients:
+  quantum-processor 100
+  tungsten-plate 30
+  superconductor 50
+  carbon-fiber 20
+  fluoroketone-cold 100
+Results:
+  railgun-turret 1
+
+Recipe: recipe-unknown
+Craft Time: 0.5
+Ingredients:
+Results:
+
+Recipe: recycler
+Craft Time: 3
+Ingredients:
+  processing-unit 6
+  steel-plate 20
+  iron-gear-wheel 40
+  concrete 20
+Results:
+  recycler 1
+
+Recipe: refined-concrete
+Craft Time: 15
+Ingredients:
+  concrete 20
+  iron-stick 8
+  steel-plate 1
+  water 100
+Results:
+  refined-concrete 10
+
+Recipe: refined-hazard-concrete
+Craft Time: 0.25
+Ingredients:
+  refined-concrete 10
+Results:
+  refined-hazard-concrete 10
+
+Recipe: repair-pack
+Craft Time: 0.5
+Ingredients:
+  electronic-circuit 2
+  iron-gear-wheel 2
+Results:
+  repair-pack 1
+
+Recipe: requester-chest
+Craft Time: 0.5
+Ingredients:
+  steel-chest 1
+  electronic-circuit 3
+  advanced-circuit 1
+Results:
+  requester-chest 1
+
+Recipe: roboport
+Craft Time: 5
+Ingredients:
+  steel-plate 45
+  iron-gear-wheel 45
+  advanced-circuit 45
+Results:
+  roboport 1
+
+Recipe: rocket
+Craft Time: 4
+Ingredients:
+  explosives 1
+  iron-plate 2
+Results:
+  rocket 1
+
+Recipe: rocket-fuel
+Craft Time: 15
+Ingredients:
+  solid-fuel 10
+  light-oil 10
+Results:
+  rocket-fuel 1
+
+Recipe: rocket-fuel-from-jelly
+Craft Time: 10
+Ingredients:
+  water 30
+  jelly 30
+  bioflux 2
+Results:
+  rocket-fuel 1
+
+Recipe: rocket-launcher
+Craft Time: 10
+Ingredients:
+  iron-plate 5
+  iron-gear-wheel 5
+  electronic-circuit 5
+Results:
+  rocket-launcher 1
+
+Recipe: rocket-part
+Craft Time: 3
+Ingredients:
+  processing-unit 1
+  low-density-structure 1
+  rocket-fuel 1
+Results:
+  rocket-part 1
+
+Recipe: rocket-silo
+Craft Time: 30
+Ingredients:
+  steel-plate 1000
+  concrete 1000
+  pipe 100
+  processing-unit 200
+  electric-engine-unit 200
+Results:
+  rocket-silo 1
+
+Recipe: rocket-turret
+Craft Time: 10
+Ingredients:
+  rocket-launcher 4
+  processing-unit 4
+  carbon-fiber 20
+  steel-plate 20
+  iron-gear-wheel 20
+Results:
+  rocket-turret 1
+
+Recipe: selector-combinator
+Craft Time: 0.5
+Ingredients:
+  advanced-circuit 2
+  decider-combinator 5
+Results:
+  selector-combinator 1
+
+Recipe: shotgun
+Craft Time: 10
+Ingredients:
+  iron-plate 15
+  iron-gear-wheel 5
+  copper-plate 10
+  wood 5
+Results:
+  shotgun 1
+
+Recipe: shotgun-shell
+Craft Time: 3
+Ingredients:
+  copper-plate 2
+  iron-plate 2
+Results:
+  shotgun-shell 1
+
+Recipe: simple-coal-liquefaction
+Craft Time: 5
+Ingredients:
+  coal 10
+  calcite 2
+  sulfuric-acid 25
+Results:
+  heavy-oil 50
+
+Recipe: slowdown-capsule
+Craft Time: 8
+Ingredients:
+  steel-plate 2
+  electronic-circuit 2
+  coal 5
+Results:
+  slowdown-capsule 1
+
+Recipe: small-electric-pole
+Craft Time: 0.5
+Ingredients:
+  wood 1
+  copper-cable 2
+Results:
+  small-electric-pole 2
+
+Recipe: small-lamp
+Craft Time: 0.5
+Ingredients:
+  electronic-circuit 1
+  copper-cable 3
+  iron-plate 1
+Results:
+  small-lamp 1
+
+Recipe: solar-panel
+Craft Time: 10
+Ingredients:
+  steel-plate 5
+  electronic-circuit 15
+  copper-plate 5
+Results:
+  solar-panel 1
+
+Recipe: solar-panel-equipment
+Craft Time: 10
+Ingredients:
+  solar-panel 1
+  advanced-circuit 2
+  steel-plate 5
+Results:
+  solar-panel-equipment 1
+
+Recipe: solid-fuel-from-ammonia
+Craft Time: 1
+Ingredients:
+  ammonia 50
+  crude-oil 20
+Results:
+  solid-fuel 1
+
+Recipe: solid-fuel-from-heavy-oil
+Craft Time: 1
+Ingredients:
+  heavy-oil 20
+Results:
+  solid-fuel 1
+
+Recipe: solid-fuel-from-light-oil
+Craft Time: 1
+Ingredients:
+  light-oil 10
+Results:
+  solid-fuel 1
+
+Recipe: solid-fuel-from-petroleum-gas
+Craft Time: 1
+Ingredients:
+  petroleum-gas 20
+Results:
+  solid-fuel 1
+
+Recipe: space-platform-foundation
+Craft Time: 10
+Ingredients:
+  steel-plate 20
+  copper-cable 20
+Results:
+  space-platform-foundation 1
+
+Recipe: space-platform-starter-pack
+Craft Time: 60
+Ingredients:
+  space-platform-foundation 60
+  steel-plate 20
+  processing-unit 20
+Results:
+  space-platform-starter-pack 1
+
+Recipe: space-science-pack
+Craft Time: 15
+Ingredients:
+  iron-plate 2
+  carbon 1
+  ice 1
+Results:
+  space-science-pack 5
+
+Recipe: speed-module
+Craft Time: 15
+Ingredients:
+  advanced-circuit 5
+  electronic-circuit 5
+Results:
+  speed-module 1
+
+Recipe: speed-module-2
+Craft Time: 30
+Ingredients:
+  speed-module 4
+  advanced-circuit 5
+  processing-unit 5
+Results:
+  speed-module-2 1
+
+Recipe: speed-module-3
+Craft Time: 60
+Ingredients:
+  speed-module-2 4
+  advanced-circuit 5
+  processing-unit 5
+  tungsten-carbide 1
+Results:
+  speed-module-3 1
+
+Recipe: spidertron
+Craft Time: 10
+Ingredients:
+  exoskeleton-equipment 4
+  fission-reactor-equipment 2
+  rocket-turret 1
+  radar 2
+  raw-fish 1
+Results:
+  spidertron 1
+
+Recipe: splitter
+Craft Time: 1
+Ingredients:
+  electronic-circuit 5
+  iron-plate 5
+  transport-belt 4
+Results:
+  splitter 1
+
+Recipe: stack-inserter
+Craft Time: 0.5
+Ingredients:
+  bulk-inserter 1
+  processing-unit 1
+  carbon-fiber 2
+  jelly 10
+Results:
+  stack-inserter 1
+
+Recipe: steam-condensation
+Craft Time: 1
+Ingredients:
+  steam 1000
+Results:
+  water 90
+
+Recipe: steam-engine
+Craft Time: 0.5
+Ingredients:
+  iron-gear-wheel 8
+  pipe 5
+  iron-plate 10
+Results:
+  steam-engine 1
+
+Recipe: steam-turbine
+Craft Time: 3
+Ingredients:
+  iron-gear-wheel 50
+  copper-plate 50
+  pipe 20
+Results:
+  steam-turbine 1
+
+Recipe: steel-chest
+Craft Time: 0.5
+Ingredients:
+  steel-plate 8
+Results:
+  steel-chest 1
+
+Recipe: steel-furnace
+Craft Time: 3
+Ingredients:
+  steel-plate 6
+  stone-brick 10
+Results:
+  steel-furnace 1
+
+Recipe: steel-plate
+Craft Time: 16
+Ingredients:
+  iron-plate 5
+Results:
+  steel-plate 1
+
+Recipe: stone-brick
+Craft Time: 3.2
+Ingredients:
+  stone 2
+Results:
+  stone-brick 1
+
+Recipe: stone-furnace
+Craft Time: 0.5
+Ingredients:
+  stone 5
+Results:
+  stone-furnace 1
+
+Recipe: stone-wall
+Craft Time: 0.5
+Ingredients:
+  stone-brick 5
+Results:
+  stone-wall 1
+
+Recipe: storage-chest
+Craft Time: 0.5
+Ingredients:
+  steel-chest 1
+  electronic-circuit 3
+  advanced-circuit 1
+Results:
+  storage-chest 1
+
+Recipe: storage-tank
+Craft Time: 3
+Ingredients:
+  iron-plate 20
+  steel-plate 5
+Results:
+  storage-tank 1
+
+Recipe: submachine-gun
+Craft Time: 10
+Ingredients:
+  iron-gear-wheel 10
+  copper-plate 5
+  iron-plate 10
+Results:
+  submachine-gun 1
+
+Recipe: substation
+Craft Time: 0.5
+Ingredients:
+  steel-plate 10
+  advanced-circuit 5
+  copper-cable 6
+Results:
+  substation 1
+
+Recipe: sulfur
+Craft Time: 1
+Ingredients:
+  water 30
+  petroleum-gas 30
+Results:
+  sulfur 2
+
+Recipe: sulfuric-acid
+Craft Time: 1
+Ingredients:
+  sulfur 5
+  iron-plate 1
+  water 100
+Results:
+  sulfuric-acid 50
+
+Recipe: sulfuric-acid-barrel
+Craft Time: 0.2
+Ingredients:
+  sulfuric-acid 50
+  barrel 1
+Results:
+  sulfuric-acid-barrel 1
+
+Recipe: supercapacitor
+Craft Time: 10
+Ingredients:
+  holmium-plate 2
+  superconductor 2
+  electronic-circuit 4
+  battery 1
+  electrolyte 10
+Results:
+  supercapacitor 1
+
+Recipe: superconductor
+Craft Time: 5
+Ingredients:
+  holmium-plate 1
+  copper-plate 1
+  plastic-bar 1
+  light-oil 5
+Results:
+  superconductor 2
+
+Recipe: tank
+Craft Time: 5
+Ingredients:
+  engine-unit 32
+  steel-plate 50
+  iron-gear-wheel 15
+  advanced-circuit 10
+Results:
+  tank 1
+
+Recipe: tesla-ammo
+Craft Time: 30
+Ingredients:
+  supercapacitor 1
+  plastic-bar 1
+  electrolyte 10
+Results:
+  tesla-ammo 1
+
+Recipe: tesla-turret
+Craft Time: 30
+Ingredients:
+  teslagun 1
+  supercapacitor 10
+  processing-unit 10
+  superconductor 50
+  electrolyte 500
+Results:
+  tesla-turret 1
+
+Recipe: teslagun
+Craft Time: 30
+Ingredients:
+  holmium-plate 10
+  superconductor 10
+  plastic-bar 30
+  electrolyte 100
+Results:
+  teslagun 1
+
+Recipe: thruster
+Craft Time: 10
+Ingredients:
+  steel-plate 10
+  processing-unit 10
+  electric-engine-unit 5
+Results:
+  thruster 1
+
+Recipe: thruster-fuel
+Craft Time: 2
+Ingredients:
+  carbon 2
+  water 10
+Results:
+  thruster-fuel 75
+
+Recipe: thruster-oxidizer
+Craft Time: 2
+Ingredients:
+  iron-ore 2
+  water 10
+Results:
+  thruster-oxidizer 75
+
+Recipe: toolbelt-equipment
+Craft Time: 10
+Ingredients:
+  advanced-circuit 3
+  carbon-fiber 10
+Results:
+  toolbelt-equipment 1
+
+Recipe: train-stop
+Craft Time: 0.5
+Ingredients:
+  electronic-circuit 5
+  iron-plate 6
+  iron-stick 6
+  steel-plate 3
+Results:
+  train-stop 1
+
+Recipe: transport-belt
+Craft Time: 0.5
+Ingredients:
+  iron-plate 1
+  iron-gear-wheel 1
+Results:
+  transport-belt 2
+
+Recipe: tungsten-carbide
+Craft Time: 1
+Ingredients:
+  tungsten-ore 2
+  sulfuric-acid 10
+  carbon 1
+Results:
+  tungsten-carbide 1
+
+Recipe: tungsten-plate
+Craft Time: 10
+Ingredients:
+  tungsten-ore 4
+  molten-iron 10
+Results:
+  tungsten-plate 1
+
+Recipe: turbo-loader
+Craft Time: 20
+Ingredients:
+  turbo-transport-belt 5
+  express-loader 1
+Results:
+  turbo-loader 1
+
+Recipe: turbo-splitter
+Craft Time: 2
+Ingredients:
+  express-splitter 1
+  tungsten-plate 15
+  processing-unit 2
+  lubricant 80
+Results:
+  turbo-splitter 1
+
+Recipe: turbo-transport-belt
+Craft Time: 0.5
+Ingredients:
+  tungsten-plate 5
+  express-transport-belt 1
+  lubricant 20
+Results:
+  turbo-transport-belt 1
+
+Recipe: turbo-underground-belt
+Craft Time: 2
+Ingredients:
+  tungsten-plate 40
+  express-underground-belt 2
+  lubricant 40
+Results:
+  turbo-underground-belt 2
+
+Recipe: underground-belt
+Craft Time: 1
+Ingredients:
+  iron-plate 10
+  transport-belt 5
+Results:
+  underground-belt 2
+
+Recipe: uranium-cannon-shell
+Craft Time: 12
+Ingredients:
+  cannon-shell 1
+  uranium-238 1
+Results:
+  uranium-cannon-shell 1
+
+Recipe: uranium-fuel-cell
+Craft Time: 10
+Ingredients:
+  iron-plate 10
+  uranium-235 1
+  uranium-238 19
+Results:
+  uranium-fuel-cell 10
+
+Recipe: uranium-processing
+Craft Time: 12
+Ingredients:
+  uranium-ore 10
+Results:
+  uranium-235 1
+  uranium-238 1
+
+Recipe: uranium-rounds-magazine
+Craft Time: 10
+Ingredients:
+  piercing-rounds-magazine 1
+  uranium-238 1
+Results:
+  uranium-rounds-magazine 1
+
+Recipe: utility-science-pack
+Craft Time: 21
+Ingredients:
+  low-density-structure 3
+  processing-unit 2
+  flying-robot-frame 1
+Results:
+  utility-science-pack 3
+
+Recipe: water-barrel
+Craft Time: 0.2
+Ingredients:
+  water 50
+  barrel 1
+Results:
+  water-barrel 1
+
+Recipe: wood-processing
+Craft Time: 2
+Ingredients:
+  wood 2
+Results:
+  tree-seed 1
+
+Recipe: wooden-chest
+Craft Time: 0.5
+Ingredients:
+  wood 2
+Results:
+  wooden-chest 1
+
+Recipe: yumako-processing
+Craft Time: 1
+Ingredients:
+  yumako 1
+Results:
+  yumako-seed 1
+  yumako-mash 2
+
