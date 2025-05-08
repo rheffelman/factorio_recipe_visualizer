@@ -68,11 +68,11 @@ class RecipeRawChart extends HTMLElement {
   
       if (!children || children.length === 0) {
         const name = nodeMap.get(nodeId)?.name || nodeId;
-        
-        // I don't want to show fluids because they use different units and mess up the plot. 
-        if (this.isFluid(name)) return;
   
         leafTotals.set(name, (leafTotals.get(name) || 0) + multiplier);
+        if (this.isFluid(name)) {
+          leafTotals.set(name, Math.log2((leafTotals.get(name) || 0) + multiplier));
+        }
         return;
       }
   
@@ -125,7 +125,7 @@ class RecipeRawChart extends HTMLElement {
       .attr("y", y.bandwidth() / 2)
       .attr("text-anchor", "end")
       .attr("alignment-baseline", "middle")
-      .text(d => `${d.name} (${d.count})`);
+      .text(d => `${d.name} (${Math.round(d.count)})`);
   
     // lollipop "stick"
     row.append("line")

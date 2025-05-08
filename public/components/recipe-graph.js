@@ -26,7 +26,7 @@ class RecipeGraph extends HTMLElement {
           filter: drop-shadow(0 0 5px white);
         }
       </style>
-      <svg viewBox="-1000 -800 2000 1600" preserveAspectRatio="xMidYMid meet"></svg>
+      <svg viewBox="-1000 -800 2000 2000" preserveAspectRatio="xMidYMid meet"></svg>
     `;
 
     this.svg = d3.select(this.shadowRoot.querySelector("svg"));
@@ -85,7 +85,7 @@ class RecipeGraph extends HTMLElement {
         const count = d.count || 1;
       
         const isFluid = this.isFluid(sourceName) || this.isFluid(targetName);
-        // fluid units work differently, so to avoid having giant lines, we just use a different scale for them.
+        // fluid units work differently, so to avoid having giant lines, I just use a different scale for them.
         if (isFluid) {
           return 1 + Math.log10(count);
         }
